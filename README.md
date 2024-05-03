@@ -1,3 +1,3 @@
 # EadgeLedger
 
-A fictional website for a small business company build with html and css
+A website for a small fictional business company built with HTML and CSS
